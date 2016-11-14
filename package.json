@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "webpack"
+  },
+  "private": true,
+  "devDependencies": {
+    "webpack": "^1.13.3"
+  }
+}
